@@ -6,7 +6,7 @@ import java.awt.Toolkit;
 
 
 public class Block extends Rectangle {
-
+	
 	Image pic;
 	int dx = 3;
 	int dy = -3;
