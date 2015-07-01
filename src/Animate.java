@@ -4,7 +4,6 @@ public class Animate implements Runnable {
 	
 	Animate(BlockBreakerPanel b){
 		bp = b;
-		
 	}
 	
 	public void run(){
